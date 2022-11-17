@@ -1,0 +1,7 @@
+D:\hack2\BlazorApp2\obj\Release\net6.0\PubTmp\Out\BlazorApp2.exe
+D:\hack2\BlazorApp2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\hack2\BlazorApp2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\hack2\BlazorApp2\obj\Release\net6.0\PubTmp\Out\BlazorApp2.dll
+D:\hack2\BlazorApp2\obj\Release\net6.0\PubTmp\Out\BlazorApp2.deps.json
+D:\hack2\BlazorApp2\obj\Release\net6.0\PubTmp\Out\BlazorApp2.runtimeconfig.json
+D:\hack2\BlazorApp2\obj\Release\net6.0\PubTmp\Out\BlazorApp2.pdb

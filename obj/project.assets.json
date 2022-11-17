@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hackathongenz\\New folder\\myproject\\ha\\BlazorApp1.csproj",
-      "projectName": "BlazorApp1",
-      "projectPath": "D:\\hackathongenz\\New folder\\myproject\\ha\\BlazorApp1.csproj",
+      "projectUniqueName": "D:\\hack2\\BlazorApp2\\BlazorApp2.csproj",
+      "projectName": "BlazorApp2",
+      "projectPath": "D:\\hack2\\BlazorApp2\\BlazorApp2.csproj",
       "packagesPath": "C:\\Users\\TARUN\\.nuget\\packages\\",
-      "outputPath": "D:\\hackathongenz\\New folder\\myproject\\ha\\obj\\",
+      "outputPath": "D:\\hack2\\BlazorApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TARUN\\AppData\\Roaming\\NuGet\\NuGet.Config",

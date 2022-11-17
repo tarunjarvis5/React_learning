@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEXqf2BwI+rI5eeEZJ/kh/OXfuJ5FiXA15JOzTuikq6Pg+dyx+PKu+kqzyv5f5PhOX7Cr8EXRny+ESHWzU/L+Q==",
+  "dgSpecHash": "YvKwn+gOPezFDjqKtlREwM79fbZC8DDoihsWXR4cTa+Go0YhTGsO5TsEOdUb3l7wWX03ayKQaUh01U1uaZXIRg==",
   "success": true,
-  "projectFilePath": "D:\\hackathongenz\\New folder\\myproject\\ha\\BlazorApp1.csproj",
+  "projectFilePath": "D:\\hack2\\BlazorApp2\\BlazorApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TARUN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],
